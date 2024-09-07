@@ -7,6 +7,8 @@
 //
 
 import XCTest
+import SwiftUI
+
 @testable import PerformanceMonitor
 
 class PerformanceMonitorTests: XCTestCase {
